@@ -1,0 +1,29 @@
+{
+  "name": "attractors-newtab",
+  "version": "1.0.0",
+  "description": "A new tab page for Chrome featuring animated attractors",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steren/attractors-newtab.git"
+  },
+  "keywords": [
+    "chrome",
+    "newtab",
+    "animated",
+    "attractor"
+  ],
+  "author": "steren",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/steren/attractors-newtab/issues"
+  },
+  "homepage": "https://github.com/steren/attractors-newtab#readme",
+  "dependencies": {
+    "attractors": "^1.0.0"
+  }
+}

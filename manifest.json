@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Attractors: new tab",
+    "description": "This extension allows the user to change the background color of the current page.",
+    "version": "1.0",
+    "author": "Steren Giannini <steren.giannini@gmail.com>",
+    "chrome_url_overrides" : {
+        "newtab": "index.html"
+    },
+    "icons": {
+        "16": "icon-16.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png" 
+    }
+  }

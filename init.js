@@ -1,0 +1,18 @@
+var config = {
+    id: 'paint-canvas',
+    init_scale: 1,
+    text: '',
+    background_color: '#57A3BD',
+    nb_attractors: 25,
+    particule_density: 900,
+    line_width: 0.35,
+    nogo_zone: false,
+    color1: '#DBCEC1',
+    color2: '#F7F6F5',
+    pixelratio: window.devicePixelRatio,
+    svg: false,
+    one_path: false,
+    shadow_scale: 1,
+    nogoCircles : [],
+    root: 'node_modules/attractors/',
+}
