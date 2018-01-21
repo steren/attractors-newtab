@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Attractors: new tab",
     "description": "Replace your Chrome new tab page with a relaxing animation.",
-    "version": "1.1",
+    "version": "1.2",
     "author": "Steren Giannini <steren.giannini@gmail.com>",
     "chrome_url_overrides" : {
         "newtab": "index.html"
